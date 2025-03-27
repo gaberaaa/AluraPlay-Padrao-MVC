@@ -70,9 +70,6 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados:
 - Composer
 - HTML/CSS
 
-## Contribuição
-
-Sinta-se à vontade para contribuir! Faça um fork do projeto e envie um pull request com melhorias.
 
 ## Licença
 
